@@ -78,7 +78,7 @@ body {
   padding: 0;
   font-family: 'Rubik', 'Noto Sans Hebrew', Arial, sans-serif;
   line-height: 1.7;
-  color: #2c3e50;
+  color: #0D7A5F;
 }
 
 img {
@@ -88,16 +88,20 @@ img {
 }
 
 :root {
-  --primary-color: #e67e22;
-  --secondary-color: #f39c12;
-  --accent-color: #d35400;
-  --bg-white: #ffffff;
-  --bg-light: #fef5e7;
-  --text-dark: #2c3e50;
+--primary-color: #0D7A5F;
+  --secondary-color: #6B2D9C;
+  --accent-color: #E84393;
+  --bg-white: #FFFFFF;
+  --bg-light: #FFFFFF;
+  --text-dark: #0D7A5F;
   --text-light: #7f8c8d;
-  --nav-color: #2c3e50;
-  --nav-hover-color: #e67e22;
+  --nav-color: #0D7A5F;
+  --nav-hover-color: #0D7A5F;
   --shadow: 0 2px 10px rgba(0,0,0,0.1);
+  --background-color: #FFFFFF;
+  --surface-color: #F4F7F6;
+  --text-color: #4a4a4a;
+  --text-secondary-color: #8c8c8c;
 }
 
 .container {
@@ -522,7 +526,7 @@ p {
 }
 
 .cta-section .btn-primary {
-  background: #ffffff;
+  background: #F4F7F6;
   color: var(--primary-color);
   border-color: #ffffff;
 }
@@ -797,7 +801,7 @@ p {
 }
 
 .join-us .btn-primary {
-  background: #ffffff;
+  background: #FFFFFF;
   color: var(--primary-color);
   border-color: #ffffff;
 }
@@ -1241,7 +1245,7 @@ img, picture, figure {
 
     /* Legal Footer Styles - Header Colors */
     .legal-footer {
-      background-color: #f2f2f2;
+      background-color: #FFFFFF;
       color: #1a1a1a;
       padding: 20px 0;
       font-size: 16px;
@@ -1648,7 +1652,7 @@ img, picture, figure {
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #f2f2f2 !important;
+  background: #FFFFFF !important;
   color: white !important;
 }
 
@@ -1685,7 +1689,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #f2f2f2 !important;
+  background: #FFFFFF !important;
   color: white !important;
 }
 
