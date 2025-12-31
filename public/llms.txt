@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# מרכז שלנו — Generative Engine Optimization Map
+
+> A שירותים קהילתיים וחברתיים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://merkaz-shelanu.zappy5.app
 מרכז שלנו - הבית של המשפחות המיוחדות ברעננה. חוגים טיפוליים, פעילויות קהילתיות ומעטפת שלמה לילדים ומשפחות עם צרכים מיוחדים.
 
 ### חוגים ופעילויות
-https://example.com/services
+https://merkaz-shelanu.zappy5.app/services
 גלו את מגוון החוגים הטיפוליים והפעילויות במרכז שלנו - טיפול בעזרת כלבים, אמנות, מוזיקה, תנועה ועוד. תכניות מותאמות אישית לילדים עם צרכים מיוחדים.
 
 ### אודות
-https://example.com/about
+https://merkaz-shelanu.zappy5.app/about
 הכירו את מרכז שלנו - מרכז קהילתי לילדים עם צרכים מיוחדים רעננה המוביל בישראל. הסיפור שלנו, הצוות המסור והחזון שמוביל אותנו.
 
 ### צור קשר
-https://example.com/contact
+https://merkaz-shelanu.zappy5.app/contact
 צרו קשר עם מרכז שלנו להרשמה לחוגים ולפעילויות לשנת 2025-2026. אנחנו כאן כדי לענות על כל שאלה ולעזור לכם למצוא את התכנית המתאימה לילד שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://merkaz-shelanu.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://merkaz-shelanu.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://merkaz-shelanu.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מרכז שלנו
+מרכז שלנו is a business in the שירותים קהילתיים וחברתיים industry.
+
+## Target Audience
+משפחות עם ילדים, נוער ובוגרים עם צרכים מיוחדים ברעננה
+
+## Industry
+שירותים קהילתיים וחברתיים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://merkaz-shelanu.zappy5.app/sitemap.xml
+- **Robots.txt**: https://merkaz-shelanu.zappy5.app/robots.txt
