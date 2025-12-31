@@ -1,6 +1,4 @@
-# מרכז שלנו — Generative Engine Optimization Map
-
-> A שירותים קהילתיים וחברתיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מרכז שלנו
-מרכז שלנו is a business in the שירותים קהילתיים וחברתיים industry.
-
-## Target Audience
-משפחות עם ילדים, נוער ובוגרים עם צרכים מיוחדים ברעננה
-
-## Industry
-שירותים קהילתיים וחברתיים
-
+## About Business
 ---
 
 # Additional Resources
