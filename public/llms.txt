@@ -1,57 +1,47 @@
-# מרכז שלנו — Generative Engine Optimization Map
-
-> A שירותים קהילתיים וחברתיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com
+https://merkaz-shelanu.zappy5.app
 מרכז שלנו - הבית של המשפחות המיוחדות ברעננה. חוגים טיפוליים, פעילויות קהילתיות ומעטפת שלמה לילדים ומשפחות עם צרכים מיוחדים.
 
 ### חוגים ופעילויות
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/services
+https://merkaz-shelanu.zappy5.app/services
 גלו את מגוון החוגים הטיפוליים והפעילויות במרכז שלנו - טיפול בעזרת כלבים, אמנות, מוזיקה, תנועה ועוד. תכניות מותאמות אישית לילדים עם צרכים מיוחדים.
 
 ### אודות
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/about
+https://merkaz-shelanu.zappy5.app/about
 הכירו את מרכז שלנו - מרכז קהילתי לילדים עם צרכים מיוחדים רעננה המוביל בישראל. הסיפור שלנו, הצוות המסור והחזון שמוביל אותנו.
 
 ### צור קשר
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/contact
+https://merkaz-shelanu.zappy5.app/contact
 צרו קשר עם מרכז שלנו להרשמה לחוגים ולפעילויות לשנת 2025-2026. אנחנו כאן כדי לענות על כל שאלה ולעזור לכם למצוא את התכנית המתאימה לילד שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/privacy
+https://merkaz-shelanu.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/terms
+https://merkaz-shelanu.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/accessibility
+https://merkaz-shelanu.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About מרכז שלנו
-מרכז שלנו is a business in the שירותים קהילתיים וחברתיים industry.
-
-## Target Audience
-משפחות עם ילדים, נוער ובוגרים עם צרכים מיוחדים ברעננה
-
-## Industry
-שירותים קהילתיים וחברתיים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/robots.txt
+- **Sitemap**: https://merkaz-shelanu.zappy5.app/sitemap.xml
+- **Robots.txt**: https://merkaz-shelanu.zappy5.app/robots.txt
