@@ -1807,3 +1807,108 @@ body.accessibility-widget-visible ._access-menu {
   background: var(--accent-color);
   border-color: var(--accent-color);
 }
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* Contact CTA Section Styles */
+.contact-cta-section {
+  background: var(--bg-light);
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.contact-cta-section h2 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.contact-cta-description {
+  font-size: 18px !important;
+  color: var(--text-dark);
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-cta-buttons {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.contact-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background: #e84393;
+  color: #ffffff;
+  padding: 18px 40px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  border: 2px solid #e84393;
+  min-width: 250px;
+  box-shadow: 0 4px 12px rgba(232, 67, 147, 0.3);
+}
+
+.contact-cta-btn:hover {
+  background: #d63384;
+  border-color: #d63384;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(232, 67, 147, 0.4);
+}
+
+.contact-cta-btn i {
+  font-size: 22px;
+}
+
+.contact-cta-btn span {
+  font-size: 18px;
+}
+
+/* Full width contact info section */
+.contact-info-section-full {
+  margin-top: 3rem;
+}
+
+.contact-info-section-full h2 {
+  color: var(--primary-color);
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.contact-info-section-full .contact-info-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .contact-cta-buttons {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .contact-cta-btn {
+    width: 100%;
+    max-width: 350px;
+  }
+  
+  .contact-cta-section {
+    padding: 30px 20px;
+  }
+  
+  .contact-cta-description {
+    font-size: 16px !important;
+  }
+}
