@@ -1773,3 +1773,37 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* Style the mailto link button to match the original button styling */
+.contact-form a.btn-primary {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* Style the form submit button to match other primary buttons */
+.contact-form button[type="submit"] {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  background: var(--primary-color);
+  color: #ffffff;
+  padding: 12px 32px;
+  border-radius: 25px;
+  font-weight: 600;
+  transition: background 0.3s ease;
+  border: 2px solid var(--primary-color);
+  font-family: inherit;
+  font-size: 16px;
+}
+
+.contact-form button[type="submit"]:hover {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+}

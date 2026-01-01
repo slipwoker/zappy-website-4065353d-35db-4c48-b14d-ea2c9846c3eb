@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-4065353d-35db-4c48-b14d.onrender.com/sitemap.xml
+Sitemap: https://merkaz-shelanu.zappy5.app/sitemap.xml
